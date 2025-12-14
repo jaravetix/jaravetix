@@ -1,5 +1,5 @@
 ## Hello there 👋
 
-I'm Ionuț and I am Software Developer specializing in modern frontend engineering, with a passion for creating accessible and user-friendly interfaces.
+I'm Ionuț and I am a Software Developer specializing in modern frontend engineering, with a passion for creating accessible and user-friendly interfaces.
 
 I thrive in Agile environments where I can continuously learn, optimize workflows, and collaborate with cross-functional teams to deliver high-quality solutions.
